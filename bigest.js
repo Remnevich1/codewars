@@ -11,3 +11,9 @@ function changeToMax (num) {
 }
 
 console.log(change(56978))
+
+//второй, более красивый вариант
+
+function changeMaxBeaut (num) {
+    return parseInt(String(num).split('').sort().reverse().join(''))
+} 
