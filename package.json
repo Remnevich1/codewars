@@ -1,0 +1,23 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "Задачи с CodeWars\r Здесь будут добавляться примеры задач решенных на портале codewars\r fds",
+  "main": "arrEvencount.js",
+  "scripts": {
+    "index" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Remnevich1/codewars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Remnevich1/codewars/issues"
+  },
+  "homepage": "https://github.com/Remnevich1/codewars#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
